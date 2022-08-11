@@ -3,7 +3,6 @@ React Calculator is a React Component library. It gives you a simple calculator 
 npm version
 
 Installation
-Use the npm or yarn to install
+Use the npm install
 
-npm install -S awesome-react-calculator
-yarn add awesome-react-calculator
+npm install -S react-calculator
