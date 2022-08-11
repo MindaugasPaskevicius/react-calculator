@@ -7,9 +7,9 @@
 
 body {
   background-image: url('./leo.jpg');
-  background-size:contain;
-  background-position:top;
-  background: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
 }
 
 .App {
@@ -69,6 +69,7 @@ button:hover {
   flex: 1 1 0%;
   background-color: grey;
   font-weight: 700;
+  border: solid 1px rgb(78, 76, 76);
 }
 
 .digits {
